@@ -1,0 +1,96 @@
+.btn-1 {
+  background: #00c6f2;
+  border-radius: 2rem;
+  padding: 0.4rem;
+  font-weight: bold;
+}
+
+.btn-1:hover {
+  background-color: #0195b6;
+}
+
+.x-color {
+  color: #00c6f2;
+}
+
+.web-name {
+  font-size: 1.5rem;
+}
+.header {
+  background-image: url("images/travel-image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.header-area {
+  color: white;
+  height: 100%;
+  max-height: 100vh;
+  background-color: rgba(0, 0, 0,0.6);
+}
+
+.navbar{
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.image-hero{
+  background-image: url("images/travel-image.jpg");
+  max-height: 40vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.overlay{
+  max-height: 40vh;
+  background-color: rgba(0, 0, 0,0.6);
+}
+
+.carousel-img{
+  height: 50vh;  
+}
+
+.card-img{
+  height: 50vh;
+}
+.c-1{
+  position: absolute;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: rgba(0, 0, 0,0.6);
+  height: 50vh;
+  position: absolute;
+  top: 0;
+}
+
+.img-n{
+  height: 50vh;  
+  max-width: 50rem;
+  width: 100%;
+}
+
+.input{
+  height: 3.5rem;
+  width: 50vw;
+  border: 3px solid #00c6f2;
+  border-radius: 5rem;
+  margin-bottom: 1.3rem;
+}
+
+footer{
+  background-color: #1e2021;
+  color: white;
+  font-size: 1.1rem;
+  text-align: center;
+  height: 30vh;
+  padding-top: 3.5rem;
+}
+
